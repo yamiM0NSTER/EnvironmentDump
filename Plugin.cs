@@ -4,7 +4,6 @@ using IPA.Utilities;
 using IPA.Config.Stores;
 using UnityEngine.SceneManagement;
 using IPA.Logging;
-using HarmonyLib;
 using System;
 using System.Collections;
 

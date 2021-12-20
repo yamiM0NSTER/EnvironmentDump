@@ -33,24 +33,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="0Harmony">
-      <HintPath>E:\Steam\steamapps\common\Beat Saber 1.18.3\Beat Saber\Libs\0Harmony.dll</HintPath>
-    </Reference>
-    <Reference Include="BeatmapCore">
-      <HintPath>E:\Steam\steamapps\common\Beat Saber 1.18.3\Beat Saber\Beat Saber_Data\Managed\BeatmapCore.dll</HintPath>
-    </Reference>
-    <Reference Include="GameplayCore">
-      <HintPath>E:\Steam\steamapps\common\Beat Saber 1.18.3\Beat Saber\Beat Saber_Data\Managed\GameplayCore.dll</HintPath>
-    </Reference>
-    <Reference Include="HMUI">
-      <HintPath>E:\Steam\steamapps\common\Beat Saber 1.18.3\Beat Saber\Beat Saber_Data\Managed\HMUI.dll</HintPath>
-    </Reference>
     <Reference Include="IPA.Loader">
       <HintPath>E:\Steam\steamapps\common\Beat Saber 1.18.3\Beat Saber\Beat Saber_Data\Managed\IPA.Loader.dll</HintPath>
-    </Reference>
-    <Reference Include="Main, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\Steam\steamapps\common\Beat Saber 1.18.3\Beat Saber\Beat Saber_Data\Managed\Main.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
