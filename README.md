@@ -4,5 +4,5 @@ Simple plugin to dump environment variables on start for debugging purposes. If 
 
 # Prequisities
 
-BSIPA 4.2.0 or higher
-Visual Studio 2022 if you want to change the plugin
+- BSIPA 4.2.0 or higher
+- Visual Studio 2022 if you want to change the plugin
